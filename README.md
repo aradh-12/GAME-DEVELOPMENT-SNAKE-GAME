@@ -9,6 +9,13 @@
 
 
 A professional-grade Snake game implementation using SFML with modern C++ practices.
+## 📖 Overview
+
+This project is a visually engaging implementation of the classic **Snake Game** using **C++ and SFML**. It demonstrates your ability to build an interactive graphical application with modular design, real-time input handling, and dynamic gameplay elements.
+
+The game features smooth snake movement, randomized food spawning, score tracking, and collision-based game-over logic. It’s structured for clarity and cross-platform compatibility, making it a standout example of your graphical programming skills during the internship.
+
+> 🎯 Built as part of **Task 3** under the Codetech IT Solutions internship, this project highlights your growing expertise in C++ and game development fundamentals.
 
 ## Features
 
