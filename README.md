@@ -15,7 +15,6 @@ This project is a visually engaging implementation of the classic **Snake Game**
 
 The game features smooth snake movement, randomized food spawning, score tracking, and collision-based game-over logic. It’s structured for clarity and cross-platform compatibility, making it a standout example of your graphical programming skills during the internship.
 
-> 🎯 Built as part of **Task 3** under the Codetech IT Solutions internship, this project highlights your growing expertise in C++ and game development fundamentals.
 
 ## Features
 
